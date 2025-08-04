@@ -22,6 +22,7 @@ Una landing page profesional diseñada para presentar una startup de manera atra
 
 - HTML5
 - CSS3
+- BOOSTRAP
 - JavaScript
 - Fuentes personalizadas
 
