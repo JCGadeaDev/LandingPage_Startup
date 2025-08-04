@@ -1,6 +1,10 @@
 # Landing Page Startup
 
 Este proyecto es una landing page moderna y responsiva para una startup, desarrollada con HTML, CSS y JavaScript.
+<img width="1263" height="593" alt="Screenshot_2" src="https://github.com/user-attachments/assets/e2d96387-2a66-4709-a1fe-7fb5b42a726d" />
+<img width="1267" height="538" alt="Screenshot_1" src="https://github.com/user-attachments/assets/e0fccf0e-552d-4549-b58e-c2d731d61a98" />
+<img width="1247" height="637" alt="Screenshot_4" src="https://github.com/user-attachments/assets/8b441701-3fbf-4561-ab27-e8fb83acec59" />
+
 
 ## 📋 Descripción
 
@@ -52,10 +56,6 @@ El sitio está diseñado para ser intuitivo y fácil de navegar. Los usuarios pu
 ## 👨‍💻 Desarrollador
 
 - **Juan Carlos Gadea** - [JCGadeaDev](https://github.com/JCGadeaDev)
-
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE.md](LICENSE) para detalles
 
 ---
 ⌨️ con ❤️ por [JCGadeaDev](https://github.com/JCGadeaDev)
